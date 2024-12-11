@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm @jhogan-uf, but most people call me Jordan or J.
+
+- 🔭 I’m currently working on Automating All The Things!
+- 🌱 I’m currently learning PowerShell and PHP (professionally) and Home Automation (personally)
+- 👯 I’m looking to collaborate on anything - iron sharpens iron...
+- 💬 Ask me about Star Wars
 
 <!--
 **jhogan-uf/jhogan-uf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
